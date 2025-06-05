@@ -62,18 +62,8 @@ This project focuses on building a multilingual chatbot tailored for low-resourc
 
 - ✅ Demonstrated effective cross-lingual transfer from Hindi to Urdu
 - ✅ Achieved **3x BLEU score improvement** with fine-tuned mT5
-- ✅ Compared Transformer and LSTM architectures in low-resource settings
-
----
-
-## 👩‍💻 Team Contributions
-
-- **Sri Padmavathi**: Designed and implemented the LSTM Seq2Seq model, tokenizer handling, Urdu inference, and BLEU-based evaluation.
-- **Harshithavalli**: Fine-tuned the mT5 model and evaluated model outputs.
-- **Monisha Raju**: Managed data preprocessing, cleaning, and test prompt setup.
-
----
-
+- ✅ Compared Transformer and LSTM architectures in low-resource setting
+- 
 ## 📄 Final Report
 
 [📑 NLP Final Report (PDF)](link_to_your_report_here)
